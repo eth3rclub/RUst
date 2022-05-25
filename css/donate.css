@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Noto+Sans:wght@400;700&display=swap');
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(43, 43, 43);
+    font-size: 50px;
+}
+.ass h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #4d32b1;
+    font-size: 32px;
+}
+
+.ass {
+    padding: 200px 0 0 0px;
+    padding-bottom: 300px;
+    max-width: 1108px;
+    margin: auto;
+    text-align: center;
+}
+    .ass a {
+        background-color: #ffff;
+        text-decoration: none;
+        display: inline-block;
+        padding: 20px;
+        width: 75%;
+        margin: 10px;
+        color: #4d32b1;
+        border: 3px solid #4d32b1;
+        font-size: 20px;
+        font-weight: 700;
+        border-radius: 50px;
+        transition: 0.2s;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .ass a:hover {
+        color: #ffff;
+        background-color: #4d32b1;
+    }
+
+    .ass img {
+        width: 40%;
+        height: 60%;
+    }
+    .link {
+        color: rgb(43, 43, 43);
+        font-size: 16px;
+        text-decoration: none;
+        font-family: 'Noto Sans',sans-serif;
+        font-weight: 700;
+        text-transform: uppercase;
+        transition: 0.2s;
+    }
+    
+    .link:hover {
+        color: #4d32b1;
+    }
+    .menu_list {
+        position: sticky;
+        width: 100%;
+        left: 0;
+        top: 0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 0px 0px 20px 0px; 
+    }
+    .menu_list a {
+        margin: 20px;
+    }
+    .ip {
+        color: #4d32b1;
+        font-size: 20px;
+        text-decoration: none;
+        font-family: 'Noto Sans',sans-serif;
+        font-weight: 700;
+        border: 2px solid #4d32b1;
+        border-radius: 18px;
+        padding: 5px 15px;
+        transition: 0.2s;
+    }
+    
+    .ip:hover {
+        color: white;
+        background-color: #4d32b1;
+    }
+    .discord {
+        color: rgb(38, 114, 255);
+        font-size: 16px;
+        text-decoration: none;
+        font-family: 'Noto Sans',sans-serif;
+        font-weight: 700;
+        text-transform: uppercase;
+        transition: 0.2s;
+    }
+    footer {
+        width: 100%;
+        left: 0;
+        top: 0;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 0px 0px 20px 0px; 
+    }
+    
+    footer p {
+        color: rgb(43, 43, 43);
+        font-size: 24px;
+        text-decoration: none;
+        font-family: 'Montserrat',sans-serif;
+        font-weight: 700;
+    }
+    footer a {
+        text-decoration: none;
+        color: rgb(43, 43, 43);
+        transition: 0.3s;
+    }
+    footer a:hover {
+        color: #4d32b1;
+    }
